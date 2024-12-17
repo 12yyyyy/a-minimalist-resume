@@ -173,13 +173,13 @@ footer a {
   width: 45px;
   height: 45px;
   border-radius: 50%;
-  background: #111;
+  /* background: #111; */
   color: #f8f8f8;
   margin: 5px;
 }
-footer a:hover {
+/* footer a:hover {
   background: #222;
-}
+} */
 footer a .icons {
   margin-top: 12px;
   display: inline-block;
